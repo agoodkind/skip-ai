@@ -12,24 +12,24 @@
   "dependencies": {
     "@tailwindcss/postcss": "^4.3.0",
     "deeply-convert-keys": "^1.0.0",
-    "react": "^19.2.6",
-    "react-dom": "^19.2.6",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
     "webextension-polyfill": "0.12.0"
   },
   "devDependencies": {
     "@commander-js/extra-typings": "^15.0.0",
     "@eslint/js": "^9.39.4",
     "@stylistic/eslint-plugin": "^5.10.0",
-    "@types/chrome": "^0.1.42",
+    "@types/chrome": "^0.1.43",
     "@types/cors": "^2.8.19",
     "@types/firefox-webext-browser": "^143.0.0",
-    "@types/node": "^25.9.1",
-    "@types/react": "^19.2.15",
+    "@types/node": "^25.9.2",
+    "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
-    "@types/web": "^0.0.349",
+    "@types/web": "^0.0.350",
     "@types/webextension-polyfill": "^0.12.5",
-    "@typescript-eslint/eslint-plugin": "^8.60.0",
-    "@typescript-eslint/parser": "^8.60.0",
+    "@typescript-eslint/eslint-plugin": "^8.60.1",
+    "@typescript-eslint/parser": "^8.60.1",
     "@typescript/lib-dom": "npm:@types/web@^0.0.279",
     "autoprefixer": "^10.5.0",
     "chrome-types": "^0.1.429",
@@ -49,7 +49,7 @@
     "tailwindcss": "^4.3.0",
     "tsx": "^4.22.4",
     "typescript": "~6.0.3",
-    "typescript-eslint": "^8.60.0"
+    "typescript-eslint": "^8.60.1"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
