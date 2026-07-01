@@ -34,8 +34,8 @@ importers:
         specifier: ^5.10.0
         version: 5.10.0(eslint@10.6.0(jiti@2.7.0))
       '@types/chrome':
-        specifier: ^0.2.0
-        version: 0.2.0
+        specifier: ^0.2.1
+        version: 0.2.1
       '@types/cors':
         specifier: ^2.8.19
         version: 2.8.19
@@ -43,8 +43,8 @@ importers:
         specifier: ^143.0.0
         version: 143.0.0
       '@types/node':
-        specifier: ^26.0.1
-        version: 26.0.1
+        specifier: ^26.1.0
+        version: 26.1.0
       '@types/react':
         specifier: ^19.2.17
         version: 19.2.17
@@ -70,8 +70,8 @@ importers:
         specifier: ^10.5.2
         version: 10.5.2(postcss@8.5.16)
       chrome-types:
-        specifier: ^0.1.431
-        version: 0.1.431
+        specifier: ^0.1.432
+        version: 0.1.432
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
@@ -464,8 +464,8 @@ packages:
   '@tailwindcss/postcss@4.3.2':
     resolution: {integrity: sha512-rjVWYCa7Ngbi5AarT6k8TkxUG3Wl1QKzHdIZVsjZSzf36Jmo2IKZt/NHRAwly8oDkbBOH0YTu+CHuf9jPxMc+g==}
 
-  '@types/chrome@0.2.0':
-    resolution: {integrity: sha512-K/i7EKEVSpmyXXjE0ev5oASWBYMY6yM8LFSutG2PkM1DmxJUggZsoaTc0W1RsVwDDKrsZEjpHFAbqqxlRxGsSg==}
+  '@types/chrome@0.2.1':
+    resolution: {integrity: sha512-WEsUncT1UGj7tR4c0ol1f8O0qXXVNV7mIMhCLRXant4jCWKR2cP98PQaw23EZhYf3+b9dGBk5HdI1ZT0YbNZuQ==}
 
   '@types/cors@2.8.19':
     resolution: {integrity: sha512-mFNylyeyqN93lfe/9CSxOGREz8cpzAhH+E93xJ4xWQf62V8sQ/24reV2nyzUWM6H6Xji+GGHpkbLe7pVoUEskg==}
@@ -491,8 +491,8 @@ packages:
   '@types/json-schema@7.0.15':
     resolution: {integrity: sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==}
 
-  '@types/node@26.0.1':
-    resolution: {integrity: sha512-fc3KiUoBt6kie0N9bIW3E47vZsuaMf0PM2AaUpLCLT0s/LvX1nxAim6Fc049cNxODPpGm6qRAuUOB86SkRuPQw==}
+  '@types/node@26.1.0':
+    resolution: {integrity: sha512-O0A1G3xPGy4w7AgQdAQYUlQ+BKk2Oovw8eRpofyp5KdBZULnbe+WqaOVNrm705SHphCiG4XHsACrSmPu1f+Kgw==}
 
   '@types/react-dom@19.2.3':
     resolution: {integrity: sha512-jp2L/eY6fn+KgVVQAOqYItbF0VY/YApe5Mz2F0aykSO8gx31bYCZyvSeYxCHKvzHG5eZjc+zyaS5BrBWya2+kQ==}
@@ -640,8 +640,8 @@ packages:
   caniuse-lite@1.0.30001799:
     resolution: {integrity: sha512-hG1bReV+OUU+MOqK4t/ZWI0tZOyz3rqS9XuhOUz1cIcbwBKjOyJEJuw9ER5JuNyqxNk8u/JUVbGibBOL1yrjFw==}
 
-  chrome-types@0.1.431:
-    resolution: {integrity: sha512-rLqG/7nguuwLPGVfj0GuLGwni//EwsT6bLjyq18R0EdwJCHTiQky9I50HVEs4p8VENfSCztnVtFEXAUexv5TuQ==}
+  chrome-types@0.1.432:
+    resolution: {integrity: sha512-OxdCEdtImIf8xlc8n2nnh699hTaI5p3a5TaFdSScToEf/HzLGUOzSVf2usZD0UOvPeDWcJv93Lwj/yvSlY+zmA==}
 
   clsx@2.1.1:
     resolution: {integrity: sha512-eYm0QWBtUrBWZWG0d386OGAw16Z995PiOVo2B7bjWSbHedGl5e0ZWaq65kOGgUSNesEIDkB9ISbTg/JK9dhCZA==}
@@ -1586,14 +1586,14 @@ snapshots:
       postcss: 8.5.16
       tailwindcss: 4.3.2
 
-  '@types/chrome@0.2.0':
+  '@types/chrome@0.2.1':
     dependencies:
       '@types/filesystem': 0.0.36
       '@types/har-format': 1.2.16
 
   '@types/cors@2.8.19':
     dependencies:
-      '@types/node': 26.0.1
+      '@types/node': 26.1.0
 
   '@types/esrecurse@4.3.1': {}
 
@@ -1611,7 +1611,7 @@ snapshots:
 
   '@types/json-schema@7.0.15': {}
 
-  '@types/node@26.0.1':
+  '@types/node@26.1.0':
     dependencies:
       undici-types: 8.3.0
 
@@ -1799,7 +1799,7 @@ snapshots:
 
   caniuse-lite@1.0.30001799: {}
 
-  chrome-types@0.1.431: {}
+  chrome-types@0.1.432: {}
 
   clsx@2.1.1: {}
 
