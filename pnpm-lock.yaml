@@ -34,8 +34,8 @@ importers:
         specifier: ^5.10.0
         version: 5.10.0(eslint@10.6.0(jiti@2.7.0))
       '@types/chrome':
-        specifier: ^0.2.1
-        version: 0.2.1
+        specifier: ^0.2.2
+        version: 0.2.2
       '@types/cors':
         specifier: ^2.8.19
         version: 2.8.19
@@ -464,8 +464,8 @@ packages:
   '@tailwindcss/postcss@4.3.2':
     resolution: {integrity: sha512-rjVWYCa7Ngbi5AarT6k8TkxUG3Wl1QKzHdIZVsjZSzf36Jmo2IKZt/NHRAwly8oDkbBOH0YTu+CHuf9jPxMc+g==}
 
-  '@types/chrome@0.2.1':
-    resolution: {integrity: sha512-WEsUncT1UGj7tR4c0ol1f8O0qXXVNV7mIMhCLRXant4jCWKR2cP98PQaw23EZhYf3+b9dGBk5HdI1ZT0YbNZuQ==}
+  '@types/chrome@0.2.2':
+    resolution: {integrity: sha512-8rSMZ4cvo2xmaSyQg0sN5yRL7oiDkntLoiHxUhfwQnv1mvnkrdoZ25SlNrKWmYKaeP50WvrfWj1pmc02+U9KKw==}
 
   '@types/cors@2.8.19':
     resolution: {integrity: sha512-mFNylyeyqN93lfe/9CSxOGREz8cpzAhH+E93xJ4xWQf62V8sQ/24reV2nyzUWM6H6Xji+GGHpkbLe7pVoUEskg==}
@@ -1586,7 +1586,7 @@ snapshots:
       postcss: 8.5.16
       tailwindcss: 4.3.2
 
-  '@types/chrome@0.2.1':
+  '@types/chrome@0.2.2':
     dependencies:
       '@types/filesystem': 0.0.36
       '@types/har-format': 1.2.16
