@@ -31,7 +31,7 @@
     "@typescript-eslint/eslint-plugin": "^8.64.0",
     "@typescript-eslint/parser": "^8.64.0",
     "@typescript/lib-dom": "npm:@types/web@^0.0.279",
-    "autoprefixer": "^10.5.2",
+    "autoprefixer": "^10.5.3",
     "chrome-types": "^0.1.434",
     "clsx": "^2.1.1",
     "commander": "^15.0.0",
