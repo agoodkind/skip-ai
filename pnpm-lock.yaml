@@ -52,8 +52,8 @@ importers:
         specifier: ^19.2.3
         version: 19.2.3(@types/react@19.2.17)
       '@types/web':
-        specifier: ^0.0.352
-        version: 0.0.352
+        specifier: ^0.0.353
+        version: 0.0.353
       '@types/webextension-polyfill':
         specifier: ^0.12.5
         version: 0.12.5
@@ -68,7 +68,7 @@ importers:
         version: '@types/web@0.0.279'
       autoprefixer:
         specifier: ^10.5.4
-        version: 10.5.4(postcss@8.5.19)
+        version: 10.5.4(postcss@8.5.20)
       chrome-types:
         specifier: ^0.1.435
         version: 0.1.435
@@ -106,8 +106,8 @@ importers:
         specifier: ^2.7.0
         version: 2.7.0
       postcss:
-        specifier: ^8.5.19
-        version: 8.5.19
+        specifier: ^8.5.20
+        version: 8.5.20
       prettier:
         specifier: ^3.9.5
         version: 3.9.5
@@ -505,8 +505,8 @@ packages:
   '@types/web@0.0.279':
     resolution: {integrity: sha512-JXvFfMxLwNgMfEUaMva2j+LqewbNnsF+Q/2It6KQUWA+bLYtg7wJ+kKPbNLF/PyjQe5H6omTD4V2QaUtbGK7hg==}
 
-  '@types/web@0.0.352':
-    resolution: {integrity: sha512-UOZDC0FwpYm4zgRK/98jFGXgRirawQYN2TIkhpFbTW4dbQie/GNHJ9uMwJ/BkFxPIhgAEdkIF3AE6qNVaJn1NA==}
+  '@types/web@0.0.353':
+    resolution: {integrity: sha512-Oy5oL7g028Z/WdDwQ+qlKwQYQ5kIQd+go3sLykJGIkcFyQlXG8pDGxF03+hEVtox9ueBNIBd1ifvVhKK6hzwog==}
 
   '@types/webextension-polyfill@0.12.5':
     resolution: {integrity: sha512-uKSAv6LgcVdINmxXMKBuVIcg/2m5JZugoZO8x20g7j2bXJkPIl/lVGQcDlbV+aXAiTyXT2RA5U5mI4IGCDMQeg==}
@@ -1161,8 +1161,8 @@ packages:
   postcss-value-parser@4.2.0:
     resolution: {integrity: sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ==}
 
-  postcss@8.5.19:
-    resolution: {integrity: sha512-Mz8SaolMd8nB+G13WkORcxQKHZ/NE4xXevtkJHVuG+guo9/wYKlIMTKAqGdEmYOXR2ijPjTYNHssizdaVSUNdQ==}
+  postcss@8.5.20:
+    resolution: {integrity: sha512-lW616l85ucIQL+FocMmL7pQFPqBmwejrCMg+iPxyImlrANNJG9NHq/RkyCZopDhd8C3LA03PHRJDjkbGu8vvug==}
     engines: {node: ^10 || ^12 || >=14}
 
   prelude-ls@1.2.1:
@@ -1587,7 +1587,7 @@ snapshots:
       '@alloc/quick-lru': 5.2.0
       '@tailwindcss/node': 4.3.3
       '@tailwindcss/oxide': 4.3.3
-      postcss: 8.5.19
+      postcss: 8.5.20
       tailwindcss: 4.3.3
 
   '@types/chrome@0.2.2':
@@ -1629,7 +1629,7 @@ snapshots:
 
   '@types/web@0.0.279': {}
 
-  '@types/web@0.0.352': {}
+  '@types/web@0.0.353': {}
 
   '@types/webextension-polyfill@0.12.5': {}
 
@@ -1750,13 +1750,13 @@ snapshots:
       json-schema-traverse: 0.4.1
       uri-js: 4.4.1
 
-  autoprefixer@10.5.4(postcss@8.5.19):
+  autoprefixer@10.5.4(postcss@8.5.20):
     dependencies:
       browserslist: 4.28.6
       caniuse-lite: 1.0.30001806
       fraction.js: 5.3.4
       picocolors: 1.1.1
-      postcss: 8.5.19
+      postcss: 8.5.20
       postcss-value-parser: 4.2.0
 
   balanced-match@4.0.4: {}
@@ -2289,7 +2289,7 @@ snapshots:
 
   postcss-value-parser@4.2.0: {}
 
-  postcss@8.5.19:
+  postcss@8.5.20:
     dependencies:
       nanoid: 3.3.16
       picocolors: 1.1.1
