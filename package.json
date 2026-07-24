@@ -32,7 +32,7 @@
     "@typescript-eslint/parser": "^8.65.0",
     "@typescript/lib-dom": "npm:@types/web@^0.0.279",
     "autoprefixer": "^10.5.4",
-    "chrome-types": "^0.1.435",
+    "chrome-types": "^0.1.436",
     "clsx": "^2.1.1",
     "commander": "^15.0.0",
     "cors": "^2.8.6",
