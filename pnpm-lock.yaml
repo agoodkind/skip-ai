@@ -70,8 +70,8 @@ importers:
         specifier: ^10.5.4
         version: 10.5.4(postcss@8.5.26)
       chrome-types:
-        specifier: ^0.1.436
-        version: 0.1.436
+        specifier: ^0.1.438
+        version: 0.1.438
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
@@ -115,8 +115,8 @@ importers:
         specifier: ^4.3.3
         version: 4.3.3
       tsx:
-        specifier: ^4.23.9
-        version: 4.23.9
+        specifier: ^4.23.11
+        version: 4.23.11
       typescript:
         specifier: ~6.0.3
         version: 6.0.3
@@ -654,8 +654,8 @@ packages:
   caniuse-lite@1.0.30001806:
     resolution: {integrity: sha512-72Cuvd95zbSYPKq6Fhg8eDJRlzgWDf7/mtoZv6Qe/DYNCEBdNxoA3+rZAU2ZhGCpZlns3EssFavaZomckT5Uuw==}
 
-  chrome-types@0.1.436:
-    resolution: {integrity: sha512-/GtvUUa9G9w2yZgfErvczpql5KjvaBsTEyJ+n47LPcGg8/8UiUeurYyrhdIFz5Uv0Gmim80eYco2oXU0r43kfw==}
+  chrome-types@0.1.438:
+    resolution: {integrity: sha512-eh9Zh3rg+svzT7zYzDbJ+ePITAlZvuNXrYymsYanzZCYTDvnD4GsFkFnlEYIqpa2RzC+f4w40xhBYvI1qj5mTQ==}
 
   clsx@2.1.1:
     resolution: {integrity: sha512-eYm0QWBtUrBWZWG0d386OGAw16Z995PiOVo2B7bjWSbHedGl5e0ZWaq65kOGgUSNesEIDkB9ISbTg/JK9dhCZA==}
@@ -1312,8 +1312,8 @@ packages:
     peerDependencies:
       typescript: '>=4.8.4'
 
-  tsx@4.23.9:
-    resolution: {integrity: sha512-6q8uTORRGauQVjqMQnKUucLFoeXZAfw6zKvG35GLbdKWbLdeOtZ3H4mhyA5mxuUd2o2cRTskhj59nLLQseUvUw==}
+  tsx@4.23.11:
+    resolution: {integrity: sha512-Ry2oTEUnhBdeEdWIztY8kf3/nBGnPnjMLVGL0YfdRXMORuPER5NlKmayqxtxRxwB1xBN+RivRaJfe7PM1rtiyw==}
     engines: {node: '>=18.0.0'}
     hasBin: true
 
@@ -1834,7 +1834,7 @@ snapshots:
 
   caniuse-lite@1.0.30001806: {}
 
-  chrome-types@0.1.436: {}
+  chrome-types@0.1.438: {}
 
   clsx@2.1.1: {}
 
@@ -2465,7 +2465,7 @@ snapshots:
     dependencies:
       typescript: 6.0.3
 
-  tsx@4.23.9:
+  tsx@4.23.11:
     dependencies:
       esbuild: 0.28.1
     optionalDependencies:
