@@ -26,7 +26,7 @@
     "@types/node": "^26.4.1",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.7",
-    "@types/web": "^0.0.355",
+    "@types/web": "^0.0.356",
     "@types/webextension-polyfill": "^0.12.6",
     "@typescript-eslint/eslint-plugin": "^8.69.0",
     "@typescript-eslint/parser": "^8.69.0",
