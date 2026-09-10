@@ -52,8 +52,8 @@ importers:
         specifier: ^19.2.7
         version: 19.2.7(@types/react@19.2.18)
       '@types/web':
-        specifier: ^0.0.355
-        version: 0.0.355
+        specifier: ^0.0.356
+        version: 0.0.356
       '@types/webextension-polyfill':
         specifier: ^0.12.6
         version: 0.12.6
@@ -530,8 +530,8 @@ packages:
   '@types/web@0.0.279':
     resolution: {integrity: sha512-JXvFfMxLwNgMfEUaMva2j+LqewbNnsF+Q/2It6KQUWA+bLYtg7wJ+kKPbNLF/PyjQe5H6omTD4V2QaUtbGK7hg==}
 
-  '@types/web@0.0.355':
-    resolution: {integrity: sha512-7CAdvEo473FedcSFulsBt5z44gJHwPQlol2eEPyd07xuZcqUa8kP8xm8LdAnA2oCtyPYL4j22Iwvhtx2scOBJw==}
+  '@types/web@0.0.356':
+    resolution: {integrity: sha512-FjE7SeW2G2It3cSeEuzxRLDZbBhiy6cmHI4506Q7hGVivabw+xz5aQBW2zoHoCWGoIrNMJAhfB7lV1SU3JZrDA==}
 
   '@types/webextension-polyfill@0.12.6':
     resolution: {integrity: sha512-XTNQSGiQaipt1iocbpHSjYHd+Ujcya+K5H4H2uH7JwycReTFixoYqGWIKih2Ec072NuEW2lAyXRDYmlEx00+cw==}
@@ -1695,7 +1695,7 @@ snapshots:
 
   '@types/web@0.0.279': {}
 
-  '@types/web@0.0.355': {}
+  '@types/web@0.0.356': {}
 
   '@types/webextension-polyfill@0.12.6': {}
 
