@@ -67,11 +67,11 @@ importers:
         specifier: npm:@types/web@^0.0.279
         version: '@types/web@0.0.279'
       autoprefixer:
-        specifier: ^10.5.6
-        version: 10.5.6(postcss@8.5.28)
+        specifier: ^10.6.0
+        version: 10.6.0(postcss@8.5.28)
       chrome-types:
-        specifier: ^0.1.446
-        version: 0.1.446
+        specifier: ^0.1.447
+        version: 0.1.447
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
@@ -621,8 +621,8 @@ packages:
   ajv@6.15.0:
     resolution: {integrity: sha512-fgFx7Hfoq60ytK2c7DhnF8jIvzYgOMxfugjLOSMHjLIPgenqa7S7oaagATUq99mV6IYvN2tRmC0wnTYX6iPbMw==}
 
-  autoprefixer@10.5.6:
-    resolution: {integrity: sha512-HiH4oYNc5+DQEx/b8FPfMj+WHH/WWUBmbN5r1Uf/ixtfyFkk+wGIlfJT/RD5eAyzlwkeYRtZUCI8qrEi26pl2g==}
+  autoprefixer@10.6.0:
+    resolution: {integrity: sha512-A26d6qs9kqGgkmImIXMYvXTzqb4Qv7AVgpY1NXzr9Y659J8qHHnLOO/zE8ewIGFMprOolAoRAQYDgNryXIJKBw==}
     engines: {node: ^10 || ^12 || >=14}
     hasBin: true
     peerDependencies:
@@ -668,8 +668,8 @@ packages:
   caniuse-lite@1.0.30001810:
     resolution: {integrity: sha512-TITQPUkaz+aVk5GL6NhOdwk1aEaNTSDPsGFWrTuhKGtjTF70jL/Oht2W4c6rXUe5fu7Ie19VIahAXHIIiWWNeg==}
 
-  chrome-types@0.1.446:
-    resolution: {integrity: sha512-5Tb1w+U9phSakEDIPXsrFQ17dKS1yV+9+82y2CDNfFsot0+TGQwPS17dgytu4oAiP+M/JIfBfOC7GI+cpR89vg==}
+  chrome-types@0.1.447:
+    resolution: {integrity: sha512-vnLekNSOKI2iah8spVZ+8TfYzg+I1YvANug3nAmQlMe32gzQXMPYZ0tUWldj8IyUanKN3nkf8BSxQSWQPkZDDg==}
 
   clsx@2.1.1:
     resolution: {integrity: sha512-eYm0QWBtUrBWZWG0d386OGAw16Z995PiOVo2B7bjWSbHedGl5e0ZWaq65kOGgUSNesEIDkB9ISbTg/JK9dhCZA==}
@@ -1816,7 +1816,7 @@ snapshots:
       json-schema-traverse: 0.4.1
       uri-js: 4.4.1
 
-  autoprefixer@10.5.6(postcss@8.5.28):
+  autoprefixer@10.6.0(postcss@8.5.28):
     dependencies:
       browserslist: 4.28.9
       caniuse-lite: 1.0.30001810
@@ -1877,7 +1877,7 @@ snapshots:
 
   caniuse-lite@1.0.30001810: {}
 
-  chrome-types@0.1.446: {}
+  chrome-types@0.1.447: {}
 
   clsx@2.1.1: {}
 
