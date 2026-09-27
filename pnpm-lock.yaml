@@ -70,8 +70,8 @@ importers:
         specifier: ^10.6.1
         version: 10.6.1(postcss@8.5.28)
       chrome-types:
-        specifier: ^0.1.449
-        version: 0.1.449
+        specifier: ^0.1.450
+        version: 0.1.450
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
@@ -668,8 +668,8 @@ packages:
   caniuse-lite@1.0.30001810:
     resolution: {integrity: sha512-TITQPUkaz+aVk5GL6NhOdwk1aEaNTSDPsGFWrTuhKGtjTF70jL/Oht2W4c6rXUe5fu7Ie19VIahAXHIIiWWNeg==}
 
-  chrome-types@0.1.449:
-    resolution: {integrity: sha512-6BkScrkkvJJX6mUW/ve+vJZrAZrCpEX7Umg9btjGL7QoDy0bNakWgWDjGPR8LyRko5ivaBa6q/eb0Rqk0y2pIw==}
+  chrome-types@0.1.450:
+    resolution: {integrity: sha512-ixMJSqLzFkLNd08+Pr59zIBO34XssCn7DhPH5jAOY4ph7lAvDxm38YLpJd7QJXfZwcIIw9zjFlIYzG4MXdZEpw==}
 
   clsx@2.1.1:
     resolution: {integrity: sha512-eYm0QWBtUrBWZWG0d386OGAw16Z995PiOVo2B7bjWSbHedGl5e0ZWaq65kOGgUSNesEIDkB9ISbTg/JK9dhCZA==}
@@ -1878,7 +1878,7 @@ snapshots:
 
   caniuse-lite@1.0.30001810: {}
 
-  chrome-types@0.1.449: {}
+  chrome-types@0.1.450: {}
 
   clsx@2.1.1: {}
 
