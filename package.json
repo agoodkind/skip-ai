@@ -28,8 +28,8 @@
     "@types/react-dom": "^19.3.0",
     "@types/web": "^0.0.358",
     "@types/webextension-polyfill": "^0.12.6",
-    "@typescript-eslint/eslint-plugin": "^8.71.1",
-    "@typescript-eslint/parser": "^8.71.1",
+    "@typescript-eslint/eslint-plugin": "^8.71.2",
+    "@typescript-eslint/parser": "^8.71.2",
     "@typescript/lib-dom": "npm:@types/web@^0.0.279",
     "autoprefixer": "^10.6.1",
     "chrome-types": "^0.1.454",
@@ -40,16 +40,16 @@
     "esbuild": "^0.28.2",
     "eslint": "^10.12.0",
     "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-prettier": "^5.5.6",
+    "eslint-plugin-prettier": "^5.5.7",
     "express": "^5.3.0",
     "globals": "^17.13.0",
     "jiti": "^2.7.0",
-    "postcss": "^8.5.29",
+    "postcss": "^8.5.30",
     "prettier": "^3.9.10",
     "tailwindcss": "^4.3.3",
     "tsx": "^4.23.15",
     "typescript": "~6.0.3",
-    "typescript-eslint": "^8.71.1"
+    "typescript-eslint": "^8.71.2"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
