@@ -10,7 +10,7 @@
     "lint": "eslint . --ext .ts,.tsx --fix --debug"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "^4.3.3",
+    "@tailwindcss/postcss": "^4.3.4",
     "deeply-convert-keys": "^1.0.0",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
@@ -46,7 +46,7 @@
     "jiti": "^2.7.0",
     "postcss": "^8.5.32",
     "prettier": "^3.9.10",
-    "tailwindcss": "^4.3.3",
+    "tailwindcss": "^4.3.4",
     "tsx": "^4.23.15",
     "typescript": "~6.0.3",
     "typescript-eslint": "^8.72.1"
