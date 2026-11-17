@@ -19,7 +19,7 @@
   "devDependencies": {
     "@commander-js/extra-typings": "^15.1.0",
     "@eslint/js": "^10.0.1",
-    "@stylistic/eslint-plugin": "^5.10.0",
+    "@stylistic/eslint-plugin": "^6.0.0",
     "@types/chrome": "^0.3.7",
     "@types/cors": "^2.8.19",
     "@types/firefox-webext-browser": "^143.0.1",
